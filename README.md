@@ -55,7 +55,7 @@
 **7. install Tomcat**
 
 **8. install CKAN**  
-- make directory
+- make directory  
 
 
     # mkdir -p ~/ckan/lib
@@ -63,7 +63,7 @@
     # mkdir -p ~/ckan/etc
     # sudo ln -s ~/ckan/etc /etc/ckan
 
-- create Python vitual envireonment to install CKAN into, and activate it
+- create Python vitual envireonment to install CKAN into, and activate it  
 
 
     # sudo mkdir -p /usr/lib/ckan/default
